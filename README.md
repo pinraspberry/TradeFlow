@@ -2,7 +2,7 @@
 
 TradeFlow is a comprehensive financial application that provides personalized stock recommendations, market insights, and financial education for users. Powered by AI and real-time market data, TradeFlow helps users make informed investment decisions based on their personal preferences and financial goals.
 
-![TradeFlow App](https://via.placeholder.com/800x400)
+Youtube video Submission: https://youtu.be/bcM3QUCCH-U?si=6GMT2hKyly1jbP1C
 
 ## Features
 
